@@ -1,4 +1,4 @@
-# Community-STEP-PCBs
+# Bare Keyboard STEP Files
 Collection of Keyboard STEP Files 
 This Collection of STEP files is from my personal use or shared from the creators. 
 
